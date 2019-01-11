@@ -1,0 +1,26 @@
+{
+  "name": "checkourquota",
+  "version": "1.0.0",
+  "description": "Just a simple application to check your rota on the checkmyrota website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oursickle/CheckOurQuota.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "electron",
+    "web"
+  ],
+  "author": "onelikeandidie, ephialtes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oursickle/CheckOurQuota/issues"
+  },
+  "homepage": "https://github.com/Oursickle/CheckOurQuota#readme"
+}
