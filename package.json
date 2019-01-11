@@ -17,10 +17,13 @@
     "electron",
     "web"
   ],
-  "author": "onelikeandidie, ephialtes",
+  "author": "oursoft",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Oursickle/CheckOurQuota/issues"
   },
-  "homepage": "https://github.com/Oursickle/CheckOurQuota#readme"
+  "homepage": "https://github.com/Oursickle/CheckOurQuota#readme",
+  "devDependencies": {
+    "zombie": "^6.1.4"
+  }
 }
