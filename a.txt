@@ -1,0 +1,1559 @@
+<!--<![endif]--><head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1">
+  <meta name="referrer" content="origin">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="robots" content="noindex, nofollow">
+  <title>communism at DuckDuckGo</title>
+  <link title="DuckDuckGo (HTML)" type="application/opensearchdescription+xml" rel="search" href="/opensearch_html.xml">
+  <link href="/favicon.ico" rel="shortcut icon">
+  <link rel="apple-touch-icon" href="/assets/logo_icon128.v101.png">
+  <link rel="image_src" href="/assets/logo_homepage.normal.v101.png">  
+  <link type="text/css" media="handheld, all" href="/h1721.css" rel="stylesheet">
+</head>
+
+<body class="body--html">
+  <a name="top" id="top"></a>
+
+  <form action="/html/" method="post">
+    <input type="text" name="state_hidden" id="state_hidden">
+  </form>
+
+  <div>
+    <div class="site-wrapper-border"></div>
+
+    <div id="header" class="header cw header--html">
+        <a title="DuckDuckGo" href="/html/" class="header__logo-wrap"></a>
+
+
+    <form name="x" class="header__form" action="/html/" method="post">
+
+      <div class="search search--header">
+          <input name="q" autocomplete="off" class="search__input" id="search_form_input_homepage" type="text" value="communism">
+          <input name="b" id="search_button_homepage" class="search__button search__button--html" value="" title="Search" alt="Search" type="submit">
+      </div>
+
+
+        
+        
+        
+        
+        
+
+    
+    
+      <input name="kl" value="us-en" type="hidden">
+        
+        
+    </form>
+
+    </div>
+
+
+
+
+
+<!-- Web results are present -->
+
+  <div>
+  <div class="serp__results">
+  <div id="links" class="results">
+
+      
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://en.wikipedia.org/wiki/Communism"><b>Communism</b> - Wikipedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://en.wikipedia.org/wiki/Communism">In political and social sciences, <b>communism</b> (from Latin communis, "common, universal") is the philosophical, social, political, and economic ideology and movement whose ultimate goal is the establishment of the communist society, which is a socioeconomic order structured upon the common ownership of the means of production and the absence of social classes, money, and the state.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://en.wikipedia.org/wiki/Communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/en.wikipedia.org.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://en.wikipedia.org/wiki/Communism">
+                  en.wikipedia.org/wiki/Communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.britannica.com/topic/communism"><b>communism</b> | Definition, Facts, &amp; History | Britannica.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.britannica.com/topic/communism"><b>Communism</b> is a political and economic system that seeks to create a classless society in which the major means of production, such as mines and factories, are owned and controlled by the public.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.britannica.com/topic/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.britannica.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.britannica.com/topic/communism">
+                  www.britannica.com/topic/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.merriam-webster.com/dictionary/communism"><b>Communism</b> | Definition of <b>Communism</b> by Merriam-Webster</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.merriam-webster.com/dictionary/communism"><b>Communism</b>, Socialism, Capitalism, and Democracy. <b>Communism</b> is one of our top all-time lookups, and user comments suggest that's because it is often used in opaque ways. In some sources, <b>communism</b> is equated with socialism; in others, it is contrasted with democracy and capitalism.Part of this confusion stems from the fact that the word <b>communism</b> has been applied to varying political systems ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.merriam-webster.com/dictionary/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.merriam-webster.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.merriam-webster.com/dictionary/communism">
+                  www.merriam-webster.com/dictionary/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.dictionary.com/browse/communism"><b>Communism</b> | Define <b>Communism</b> at Dictionary.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.dictionary.com/browse/communism"><b>Communism</b> definition, a theory or system of social organization based on the holding of all property in common, actual ownership being ascribed to the community as a whole or to the state. See more.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.dictionary.com/browse/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.dictionary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.dictionary.com/browse/communism">
+                  www.dictionary.com/browse/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.thefreedictionary.com/communism"><b>Communism</b> - definition of <b>communism</b> by The Free Dictionary</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.thefreedictionary.com/communism"><b>com·mu·nism</b> (kŏm′yə-nĭz′əm) n. 1. A theoretical economic system characterized by the collective ownership of property and by the organization of labor for the common advantage of all members. 2. <b>Communism</b> a. A system of government in which the state plans and controls the economy and a single ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.thefreedictionary.com/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.thefreedictionary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.thefreedictionary.com/communism">
+                  www.thefreedictionary.com/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://people.howstuffworks.com/communism.htm">How <b>Communism</b> Works | HowStuffWorks</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://people.howstuffworks.com/communism.htm"><b>Communism</b> is a type of government that relies on collectivization of labor and good to equal out the classes. Learn about the workings of <b>communism</b>.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://people.howstuffworks.com/communism.htm">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/people.howstuffworks.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://people.howstuffworks.com/communism.htm">
+                  people.howstuffworks.com/communism.htm
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.livescience.com/42980-what-is-communism.html">What Is <b>Communism</b>? | Socialism <b>Communism</b> Capitalism</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.livescience.com/42980-what-is-communism.html">Though the term "<b>communism</b>" can refer to specific political parties, at its core, <b>communism</b> is an ideology of economic equality through the elimination of private property.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.livescience.com/42980-what-is-communism.html">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.livescience.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.livescience.com/42980-what-is-communism.html">
+                  www.livescience.com/42980-what-is-communism.html
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.investopedia.com/terms/c/communism.asp"><b>Communism</b> - Investopedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.investopedia.com/terms/c/communism.asp"><b>Communism</b> is a political and economic ideology that positions itself in opposition to liberal democracy and capitalism, advocating instead a classless system in which the means of production are ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.investopedia.com/terms/c/communism.asp">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.investopedia.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.investopedia.com/terms/c/communism.asp">
+                  www.investopedia.com/terms/c/communism.asp
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://simple.wikipedia.org/wiki/Communism"><b>Communism</b> - Simple English Wikipedia, the free encyclopedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://simple.wikipedia.org/wiki/Communism"><b>Communism</b> is an ideological and a social political movement.Its aim is to set up a communist society. This society would be based on the common ownership of the means of production and would lack social classes, money, and a state.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://simple.wikipedia.org/wiki/Communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/simple.wikipedia.org.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://simple.wikipedia.org/wiki/Communism">
+                  simple.wikipedia.org/wiki/Communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.youtube.com/watch?v=qElx_EyTTKA">What Is <b>Communism</b>? - YouTube</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.youtube.com/watch?v=qElx_EyTTKA">The Huge Problem With For-Profit Prisons http://testu.be/1UKhQ6r » Subscribe to NowThis World: http://go.nowth.is/World_Subscribe Critics argue that bail conditions ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.youtube.com/watch?v=qElx_EyTTKA">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.youtube.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.youtube.com/watch?v=qElx_EyTTKA">
+                  www.youtube.com/watch?v=qElx_EyTTKA
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.vocabulary.com/dictionary/communism"><b>communism</b> - Dictionary Definition : Vocabulary.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.vocabulary.com/dictionary/communism">At the opposite end of the spectrum from capitalism, <b>communism</b> is an economic theory favoring a classless society and the abolition of private property.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.vocabulary.com/dictionary/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.vocabulary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.vocabulary.com/dictionary/communism">
+                  www.vocabulary.com/dictionary/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://en.oxforddictionaries.com/definition/communism"><b>communism</b> | Definition of <b>communism</b> in English by Oxford ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://en.oxforddictionaries.com/definition/communism">The most familiar form of <b>communism</b> is that established by the Bolsheviks after the Russian Revolution of 1917, and it has generally been understood in terms of the system practised by the former Soviet Union and its allies in eastern Europe, in China since 1949, and in some developing countries such as Cuba, Vietnam, and North Korea.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://en.oxforddictionaries.com/definition/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/en.oxforddictionaries.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://en.oxforddictionaries.com/definition/communism">
+                  en.oxforddictionaries.com/definition/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.thebalance.com/communism-characteristics-pros-cons-examples-3305589"><b>Communism</b>: Definition, Pros, Cons, Examples, Countries</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.thebalance.com/communism-characteristics-pros-cons-examples-3305589"><b>Communism</b> is an economic system where the group owns the factors of production. In countries, the government represents the group. The means of production are labor, entrepreneurship, capital goods, and natural resources. Although the labor force aren't legally owned by the government, the ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.thebalance.com/communism-characteristics-pros-cons-examples-3305589">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.thebalance.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.thebalance.com/communism-characteristics-pros-cons-examples-3305589">
+                  www.thebalance.com/communism-characteristics-pros-cons-examples-3305589
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://kids.britannica.com/students/article/communism/273756"><b>communism</b> - Students | Britannica Kids | Homework Help</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://kids.britannica.com/students/article/communism/273756">AP Images. <b>Communism</b> is a political and economic system in which the major productive resources in a society—such as mines, factories, and farms—are owned by the public or the state, and wealth is divided among citizens equally or according to individual need.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://kids.britannica.com/students/article/communism/273756">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/kids.britannica.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://kids.britannica.com/students/article/communism/273756">
+                  kids.britannica.com/students/article/communism/273756
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.investopedia.com/ask/answers/100214/what-difference-between-communism-and-socialism.asp">What is the difference between <b>Communism</b> and Socialism?</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.investopedia.com/ask/answers/100214/what-difference-between-communism-and-socialism.asp"><b>Communism</b> traces its roots to "The Communist Manifesto," an 1848 pamphlet by Karl Marx and Friedrich Engels. The document laid out a theory of history as a struggle between economic classes, which ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.investopedia.com/ask/answers/100214/what-difference-between-communism-and-socialism.asp">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.investopedia.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.investopedia.com/ask/answers/100214/what-difference-between-communism-and-socialism.asp">
+                  www.investopedia.com/ask/answers/100214/what-difference-between-communism-and-socialism.asp
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.urbandictionary.com/define.php?term=Communism">Urban Dictionary: <b>Communism</b></a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.urbandictionary.com/define.php?term=Communism"><b>Communism</b> is a socioeconomic structure and political ideology that promotes the establishment of an egalitarian, classless, stateless society based on common ownership and control of the means of production and property in general.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.urbandictionary.com/define.php?term=Communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.urbandictionary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.urbandictionary.com/define.php?term=Communism">
+                  www.urbandictionary.com/define.php?term=Communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://encyclopedia2.thefreedictionary.com/communism"><b>Communism</b> | Article about <b>communism</b> by The Free Dictionary</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://encyclopedia2.thefreedictionary.com/communism"><b>communism</b>, fundamentally, a system of social organization in which property (especially real property and the means of production) is held in common. Thus, the ejido ejido [Span.,</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://encyclopedia2.thefreedictionary.com/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/encyclopedia2.thefreedictionary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://encyclopedia2.thefreedictionary.com/communism">
+                  encyclopedia2.thefreedictionary.com/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://kids.britannica.com/kids/article/communism/352989"><b>communism</b> - Kids | Britannica Kids | Homework Help</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://kids.britannica.com/kids/article/communism/352989"><b>Communism</b> is a type of government as well as an economic system (a way of creating and sharing wealth). In a Communist system, individual people do not own land, factories, or machinery.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://kids.britannica.com/kids/article/communism/352989">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/kids.britannica.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://kids.britannica.com/kids/article/communism/352989">
+                  kids.britannica.com/kids/article/communism/352989
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://people.howstuffworks.com/communism1.htm">How <b>Communism</b> Works - People | HowStuffWorks</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://people.howstuffworks.com/communism1.htm">The political theory of socialism, which gave rise to ­<b>communism</b>, had been around for hundreds of years by the time a German philosopher named Karl Marx put pen to paper. Marx, also known as the father of <b>communism</b>, spent most of his life in exile in Great Britain and France.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://people.howstuffworks.com/communism1.htm">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/people.howstuffworks.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://people.howstuffworks.com/communism1.htm">
+                  people.howstuffworks.com/communism1.htm
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.allaboutphilosophy.org/communism.htm"><b>Communism</b> - Philosophy - AllAboutPhilosophy.org</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.allaboutphilosophy.org/communism.htm"><b>Communism</b>. <b>Communism</b> - Marxism &amp; The Communist Manifesto <b>Communism</b>, which is also described as "Revolutionary Proletarian Socialism" or "Marxism," is both a political and economic philosophy.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.allaboutphilosophy.org/communism.htm">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.allaboutphilosophy.org.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.allaboutphilosophy.org/communism.htm">
+                  www.allaboutphilosophy.org/communism.htm
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.diffen.com/difference/Communism_vs_Socialism"><b>Communism</b> vs Socialism - Difference and Comparison | Diffen</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.diffen.com/difference/Communism_vs_Socialism">In a way, <b>communism</b> is an extreme form of socialism.Many countries have dominant socialist political parties but very few are truly communist. In fact, most countries - including staunch capitalist bastions like the U.S. and U.K. - have government programs that borrow from socialist principles.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.diffen.com/difference/Communism_vs_Socialism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.diffen.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.diffen.com/difference/Communism_vs_Socialism">
+                  www.diffen.com/difference/Communism_vs_Socialism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.econlib.org/library/Enc/Communism.html"><b>Communism</b> - Econlib</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.econlib.org/library/Enc/Communism.html">B efore the Russian Revolution of 1917, " socialism " and "<b>communism</b>" were synonyms. Both referred to economic systems in which the government owns the means of production. The two terms diverged in meaning largely as a result of the political theory and practice of Vladimir Lenin (1870-1924).</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.econlib.org/library/Enc/Communism.html">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.econlib.org.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.econlib.org/library/Enc/Communism.html">
+                  www.econlib.org/library/Enc/Communism.html
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://legal-dictionary.thefreedictionary.com/Communism+in+the+United+States"><b>Communism</b> in the United States legal definition of <b>Communism</b> ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://legal-dictionary.thefreedictionary.com/Communism+in+the+United+States"><b>Communism</b>. A system of social organization in which goods are held in common. <b>Communism</b> in the United States is something of an anomaly. The basic principles of <b>communism</b> are, by design, at odds with the free enterprise foundation of U.S. capitalism.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://legal-dictionary.thefreedictionary.com/Communism+in+the+United+States">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/legal-dictionary.thefreedictionary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://legal-dictionary.thefreedictionary.com/Communism+in+the+United+States">
+                  legal-dictionary.thefreedictionary.com/Communism+in+the+United+States
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.merriam-webster.com/dictionary/communist">Communist | Definition of Communist by Merriam-Webster</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.merriam-webster.com/dictionary/communist">:a person who believes in <b>communism</b> or is a member of a political party that supports <b>communism</b>. See the full definition for communist in the English Language Learners Dictionary</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.merriam-webster.com/dictionary/communist">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.merriam-webster.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.merriam-webster.com/dictionary/communist">
+                  www.merriam-webster.com/dictionary/communist
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://en.wikipedia.org/wiki/Anti-Communist">Anti-<b>communism</b> - Wikipedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://en.wikipedia.org/wiki/Anti-Communist">Anti-<b>communism</b> is opposition to <b>communism</b>.Organized anti-<b>communism</b> developed after the 1917 October Revolution in the Russia and it reached global dimensions during the Cold War, when the United States and the Soviet Union engaged in an intense rivalry. Anti-<b>communism</b> has been an element of movements holding many different political positions, including nationalist, social democratic, liberal ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://en.wikipedia.org/wiki/Anti-Communist">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/en.wikipedia.org.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://en.wikipedia.org/wiki/Anti-Communist">
+                  en.wikipedia.org/wiki/Anti-Communist
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://dictionary.cambridge.org/dictionary/english/communism"><b>COMMUNISM</b> | meaning in the Cambridge English Dictionary</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://dictionary.cambridge.org/dictionary/english/communism"><b>communism</b> definition: 1. the belief in a society without different social classes in which the methods of production are owned and controlled by all its members and everyone works as much as they can and receives what they need 2. an economic system based on public ownership of property and control….</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://dictionary.cambridge.org/dictionary/english/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/dictionary.cambridge.org.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://dictionary.cambridge.org/dictionary/english/communism">
+                  dictionary.cambridge.org/dictionary/english/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.newworldencyclopedia.org/entry/Communism"><b>Communism</b> - New World Encyclopedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.newworldencyclopedia.org/entry/Communism"><b>Communism</b> refers to a theory for revolutionary change and political and socioeconomic organization based on common control of the means of production as opposed to private ownership. While <b>communism</b> or Marxism-Leninism, as it is known, champions economic justice, it views social revolution and the violent overthrow of the existing social order as essential components in the process.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.newworldencyclopedia.org/entry/Communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.newworldencyclopedia.org.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.newworldencyclopedia.org/entry/Communism">
+                  www.newworldencyclopedia.org/entry/Communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.wisegeek.com/what-is-communism.htm">What is <b>Communism</b>? (with pictures)</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.wisegeek.com/what-is-communism.htm"><b>Communism</b> is an ideology in which society is classless and there is no private ownership. Unfortunately, many Communist states...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.wisegeek.com/what-is-communism.htm">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.wisegeek.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.wisegeek.com/what-is-communism.htm">
+                  www.wisegeek.com/what-is-communism.htm
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.businessdictionary.com/definition/communism.html">What is <b>communism</b>? definition and meaning ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.businessdictionary.com/definition/communism.html">In view of the above, there has never been a truly communist state although the Soviet Union of the past and China, Cuba, and North Korea of today stake their claims.See also Marxism and Socialism.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.businessdictionary.com/definition/communism.html">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.businessdictionary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.businessdictionary.com/definition/communism.html">
+                  www.businessdictionary.com/definition/communism.html
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.yourdictionary.com/communism"><b>Communism</b> dictionary definition | <b>communism</b> defined</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.yourdictionary.com/communism">The definition of <b>communism</b> is a system where all property is public and people work and are given things by the government according to their needs.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.yourdictionary.com/communism">
+                        <img class="result__icon__img" width="16" height="16" alt="" src="//icons.duckduckgo.com/ip2/www.yourdictionary.com.ico" name="i15">
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.yourdictionary.com/communism">
+                  www.yourdictionary.com/communism
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+
+        
+        
+                <div class="nav-link">
+        <form action="/html/" method="post">
+          <input type="submit" class="btn btn--alt" value="Next">
+          <input type="hidden" name="q" value="communism">
+          <input type="hidden" name="s" value="30">
+          <input type="hidden" name="nextParams" value="">
+          <input type="hidden" name="v" value="l">
+          <input type="hidden" name="o" value="json">
+          <input type="hidden" name="dc" value="31">
+          <input type="hidden" name="api" value="/d.js">
+
+            
+            
+        
+          <input name="kl" value="us-en" type="hidden">
+            
+            
+            
+            
+            
+        </form>
+                </div>
+        
+
+
+
+        <div class=" feedback-btn">
+            <a rel="nofollow" href="/feedback.html" target="_new">Feedback</a>
+        </div>
+        <div style="clear:both;"></div>
+  </div>
+  </div> <!-- links wrapper //--> 
+
+    
+
+
+
+    </div>
+  </div>
+
+
+
+
+    <div id="bottom_spacing2"></div>
+
+    
+      <img src="/t/sl_h">
+    
+
+
+</body>
