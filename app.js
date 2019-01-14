@@ -12,10 +12,6 @@ class donningdonedone extends EventEmitter {}
 
 const CheckOurRota = new donningdonedone();
 
-
-
-Browser.localhost("www.google.co.uk", 3000);
-
 const browser = new Browser();
 
 var url = "https://duckduckgo.com";
@@ -31,6 +27,7 @@ browser.visit(url, function() {
       let sBrowser = new Browser();
       let sBrowser_query;
       sBrowser.visit(url + browser_query("head").find("link[type='text/css']").attr("href"), function() {
+        console.log(url + browser_query("head").find("link[type='text/css']").attr("href"));
         sBrowser.wait().then(function() {
           sBrowser_query = $(sBrowser.window);
           callback(sBrowser_query("body").text());
@@ -38,7 +35,7 @@ browser.visit(url, function() {
       });
     };
     browser_styles(function(css) {
-      webshot(browser_query("*").html(), "img.png", {
+      webshot(browser_query("*").html(), "./temp/img.png", {
         siteType: 'html',
         customCSS: css,
         screenSize: {
@@ -64,7 +61,7 @@ browser.visit(url, function() {
     console.log("NOTIFICATION_TEXT " + notification_text);
     browser_styles(function(c) {
       console.log("style");
-      console.log(c.substring(0, 20));
+      console.log(c.substring(0, 100));
     });
   });
 });
