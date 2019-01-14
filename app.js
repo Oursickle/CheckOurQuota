@@ -57,7 +57,7 @@ browser.visit(url, function() {
       });
     });
 
-    fs.writeFile("a.txt", browser_query("*").html(), function(err) {
+    fs.writeFile("./temp/a.txt", browser_query("*").html(), function(err) {
       console.log("txt");
       console.log(err);
     });
@@ -77,6 +77,6 @@ CheckOurRota.on("finished", function(a) {
   notifier.notify({
     title: "CheckOurRota",
     message: a,
-    icon: "./img.png"
+    icon: "./temp/img.png"
   });
 });
