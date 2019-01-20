@@ -1,5 +1,5 @@
 {
-  "name": "checkourquota",
+  "name": "checkourrota",
   "version": "1.0.0",
   "description": "Just a simple application to check your rota on the checkmyrota website.",
   "main": "app.js",
